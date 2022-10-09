@@ -1,2 +1,2 @@
-# ozonAnalyticsBot
- Ozon bucket remainders parser
+# Ozon Bucket Remainders Parser
+Парсер для остатков товаров в корзине для сайта https://www.ozon.ru/
